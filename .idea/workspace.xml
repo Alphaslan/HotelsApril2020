@@ -3,6 +3,47 @@
   <component name="ChangeListManager">
     <list default="true" id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-20-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-21-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-11-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-11-42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-11-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-19-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-19-39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-20-59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-21-00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-02-16-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-02-17-12.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +142,8 @@
       <updated>1585502717102</updated>
       <workItem from="1585924254040" duration="1328000" />
       <workItem from="1585947216797" duration="476000" />
-      <workItem from="1585954390662" duration="505000" />
+      <workItem from="1585954390662" duration="945000" />
+      <workItem from="1586027799517" duration="610000" />
     </task>
     <servers />
   </component>
