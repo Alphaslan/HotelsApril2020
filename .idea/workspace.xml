@@ -2,48 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hotelsApril2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/HotelsUpgraded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/UpgradedSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-09-21-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-09-21-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-09-21-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-09-21-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-09-22-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-09-22-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-17-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-19-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-19-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-20-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-21-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-21-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-21-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-22-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-22-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-20-22-34.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-19-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-20-30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-29-21-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-11-53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-30-12-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-11-41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-11-42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-11-57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-14-24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-19-36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-19-39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-20-59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-01-21-00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-02-16-53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-02-17-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.logs/application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/Hotels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/Hotels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Hotels.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Hotels.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/hotelsApril2020.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Hotels.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Hotels.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/ElementUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/ElementUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/ElementUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/ElementUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/Hotels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/Hotels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinition/HotelsSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinition/HotelsSD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinition/SharedSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinition/SharedSD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/ConfigReader.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,6 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -73,11 +70,14 @@
     <option name="vmOptions" value="1.8" />
   </component>
   <component name="ProjectId" id="1ZoPxA7i6HMMoKdvvDOClUowlIZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -88,7 +88,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Verify user can only view the result by selected property class U">
+    <configuration name="Scenario: Verify user can only view the result by selected property class U" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Hotels.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="hotelsApril2020" />
+      <option name="NAME_FILTER" value="^Verify user can only view the result by selected property class U$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify user can only view the result by selected property class U$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify user can only view the result by selected property class U" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scenario: Verify user can only view the result by selected property class" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Hotels.feature" />
@@ -125,8 +144,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: Verify user can only view the result by selected property class U" />
+        <item itemvalue="Cucumber Java.Scenario: Verify user can only view the result by selected property class" />
         <item itemvalue="JUnit.TestRunner" />
-        <item itemvalue="Cucumber java.Scenario: Verify user can only view the result by selected property class" />
       </list>
     </recent_temporary>
   </component>
@@ -143,54 +163,80 @@
       <workItem from="1585924254040" duration="1328000" />
       <workItem from="1585947216797" duration="476000" />
       <workItem from="1585954390662" duration="945000" />
-      <workItem from="1586027799517" duration="610000" />
+      <workItem from="1586027799517" duration="2089000" />
+      <workItem from="1586138348976" duration="159000" />
+      <workItem from="1586192380802" duration="785000" />
+      <workItem from="1586212111370" duration="18000" />
+      <workItem from="1586221115166" duration="647000" />
+      <workItem from="1586479183160" duration="1466000" />
+      <workItem from="1586480691727" duration="2663000" />
+      <workItem from="1586483559303" duration="1592000" />
+      <workItem from="1586551922674" duration="9000" />
+      <workItem from="1586874905781" duration="12000" />
+      <workItem from="1586879679189" duration="373000" />
+      <workItem from="1587407701905" duration="11201000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1723" y="189" key="#Project_Structure" timestamp="1585505559581">
       <screen x="1440" y="23" width="1366" height="1001" />
     </state>
     <state x="1723" y="189" key="#Project_Structure/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585505559581" />
-    <state width="1398" height="57" key="GridCell.Tab.0.bottom" timestamp="1585864322248">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1586480912313">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="57" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585864322248" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1586480912313" />
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1587436656213">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587436656213" />
     <state width="1324" height="81" key="GridCell.Tab.0.bottom/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585786516082" />
-    <state width="1398" height="57" key="GridCell.Tab.0.center" timestamp="1585864322247">
+    <state width="1398" height="727" key="GridCell.Tab.0.bottom/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433872398" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1587436656211">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="57" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585864322247" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587436656211" />
     <state width="1324" height="81" key="GridCell.Tab.0.center/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585786516080" />
-    <state width="1398" height="57" key="GridCell.Tab.0.left" timestamp="1585864322246">
+    <state width="1398" height="727" key="GridCell.Tab.0.center/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433872394" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1587436656210">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="57" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585864322246" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587436656210" />
     <state width="1324" height="81" key="GridCell.Tab.0.left/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585786516080" />
-    <state width="1398" height="57" key="GridCell.Tab.0.right" timestamp="1585864322248">
+    <state width="1398" height="727" key="GridCell.Tab.0.left/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433872394" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1587436656212">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="57" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585864322248" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587436656212" />
     <state width="1324" height="81" key="GridCell.Tab.0.right/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585786516081" />
-    <state width="1324" height="41" key="GridCell.Tab.1.bottom" timestamp="1585522644941">
+    <state width="1398" height="727" key="GridCell.Tab.0.right/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433872397" />
+    <state width="1398" height="727" key="GridCell.Tab.1.bottom" timestamp="1587433563481">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1324" height="41" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585522644941" />
-    <state width="1324" height="41" key="GridCell.Tab.1.center" timestamp="1585522644939">
+    <state width="1398" height="428" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587431752297" />
+    <state width="1398" height="727" key="GridCell.Tab.1.bottom/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433563481" />
+    <state width="1398" height="727" key="GridCell.Tab.1.center" timestamp="1587433563475">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1324" height="41" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1585522644939" />
-    <state width="1324" height="41" key="GridCell.Tab.1.left" timestamp="1585522644937">
+    <state width="1398" height="428" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1587431752296" />
+    <state width="1398" height="727" key="GridCell.Tab.1.center/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433563475" />
+    <state width="1398" height="727" key="GridCell.Tab.1.left" timestamp="1587433563474">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1324" height="41" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1585522644937" />
-    <state width="1324" height="41" key="GridCell.Tab.1.right" timestamp="1585522644940">
+    <state width="1398" height="428" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1587431752296" />
+    <state width="1398" height="727" key="GridCell.Tab.1.left/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433563474" />
+    <state width="1398" height="727" key="GridCell.Tab.1.right" timestamp="1587433563476">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1324" height="41" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1585522644940" />
+    <state width="1398" height="428" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1587431752296" />
+    <state width="1398" height="727" key="GridCell.Tab.1.right/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1587433563476" />
     <state x="239" y="63" key="SettingsEditor" timestamp="1585522813408">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -201,5 +247,13 @@
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1585954390338" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/1440.23.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1585875641795" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/35.-1001.1366.1001/0.23.1440.877@0.23.1440.877" timestamp="1585947215744" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="distance" />
+        <watch expression="value.name" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
