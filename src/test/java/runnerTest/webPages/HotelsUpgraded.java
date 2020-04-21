@@ -12,23 +12,20 @@ class Hotel {
     private double distance;
     private double star;
 
+    public Hotel() {
+    }
     public Hotel(String name, double distance, double star) {
         this.name = name;
         this.distance = distance;
         this.star = star;
     }
 
-    public Hotel() {
-    }
-
     public String getAll() {
         return name + distance + star;
     }
 
-    public void createHotel(String name, double distance, double star) {
-        this.name = name;
-        this.distance = distance;
-        this.star = star;
+    public static Hotel createHotel(String name, double distance, double star) {
+        return new  Hotel(name,distance,star);
     }
 
     public String getName() {
@@ -49,8 +46,6 @@ class Hotel {
 }
 
 public class HotelsUpgraded extends ElementUtil {
-
-    Hotel hotel = new Hotel();
 
     List<Hotel> hotelList = new ArrayList<Hotel>();
 
@@ -160,10 +155,8 @@ public class HotelsUpgraded extends ElementUtil {
             String hotelName = hotels.get(i).getText();
             double dist = Double.parseDouble(rangeList.get(i).getText().replaceAll("[a-zA-Z ]", ""));
             double star = Double.parseDouble(stars.get(i+5).getText().replaceAll("[a-zA-Z -]", ""));
-            hotel = new Hotel();
-            hotel.createHotel(hotelName, dist, star);
-            hotelList.add(hotel);
-
+            Hotel newHotel = Hotel.createHotel(hotelName, dist, star);
+            hotelList.add(newHotel);
         }
     }
 
